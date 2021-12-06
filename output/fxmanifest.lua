@@ -1,5 +1,5 @@
 --[[
-    Merged Using github.com/K0Lega  
+    Merged Using github.com/CyroxSH  
 ]]--
 
 fx_version "cerulean"
